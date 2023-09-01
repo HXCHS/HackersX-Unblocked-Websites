@@ -9,4 +9,3 @@ This is my own website with the Clockwork operating system installed to it, with
 * Step 4 Locate the IN button with a black background on the bottom of your screen.
 
 BACKUP WEBSITES:
-https://hxchs.w3spaces.com/ - Has a usage limit, im on a free plan.
