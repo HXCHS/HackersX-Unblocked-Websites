@@ -1,4 +1,8 @@
-# HackersX - UPDATE
+# HackersX - [UPDATE - READ]
+
+## [ READ ]
+* I am aware that nebula is broken at times and wont work, but that is nebula, not clockwork, or my website. The best solution is to be patient and wait for it to be working again. Also, there is another working unblocker in the store called Phantom Games, install it and open it and then scroll to the bottom where it says apps and click google, done. You can also mess around with other apps in the store. Thanks for reading this.
+
 
 ## Unblocked Websites [NEBULA NOT INTERSTELLAR]
 This is my own website with the Clockwork operating system installed on it, with this you can have an Operating System in your browser. This WILL work with securely!!! 
