@@ -1,4 +1,4 @@
-# HackersX - [PLANNED SERVER MAINTENANCE]
+# HackersX - [WEBSITE DOWN FOR MAINTAINANCE]
 * HXCHS.github.io will be undergoing an overhaul update and will be receiving several features including a system status page that will display which unblockers are down or up along with support tickets (maybe), I will also add an IT Team application form so that those who are interested may send a request to work at Hackers-X IT Department it isn't a company at all but apply if you want. I may remove the clockwork OS and begin working on HXOS (Hackers-X Operating System) which will not appear in your history or open in an about:blank tab. This update will take a long time, but the current version of hxchs.github.io will remain operational until the update is synced to the server which may result in a temporary loss of access to the site. This process should only last about 1 or 2 days maximum. Thank you all for your support in starring this project. Keep it up! ~ Hackers-X
 
 ## [ READ ]
