@@ -7,6 +7,7 @@ Now go to [html compiler](https://onecompiler.com/html) and paste that code afte
 
 
 ## Then Click Run.
+Dont Forget to Star this repo,
 The Rest is Self-Explanitory.
 
 Extra Sites:
