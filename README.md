@@ -2,7 +2,7 @@
 <p align="center">Explore More on [TikTok](https://www.tiktok.com/@theofficial_hackersx) for Incredible Hacks!</p>
 <p align="center">
   <a href="link_to_license">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-CC0-blue.svg" alt="License">
   </a>
   <img src="https://img.shields.io/badge/Securely-Yes-brightgreen.svg" alt="Securly">
 <img src="https://img.shields.io/badge/Tested%20on-CHROMEBOOK-informational" alt="Tested on">
