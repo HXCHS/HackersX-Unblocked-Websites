@@ -1,4 +1,5 @@
-# HackersX - !UPDATE! FOLLOW ME ON [TIKTOK](https://www.tiktok.com/@theofficial_hackersx) FOR MORE HACKS
+# HackersX - !ADDED LINKS! FOLLOW ME ON [TIKTOK](https://www.tiktok.com/@theofficial_hackersx) FOR MORE HACKS
+## UPDATED [ ADDED UNBLOCKER LINKS, SCROLL TO BOTTOM ]
 
 Go to [this file](/SecurlyKiller) and click the copy button to the right of "raw" ![image](https://github.com/HXCHS/HackersX-Unblocked-Websites/assets/113638066/18e289c4-da5f-47b3-a8ac-195996f7d3d1)
 
@@ -15,6 +16,9 @@ Dont Forget to Star this repo,
 The Rest is Self-Explanitory.
 
 Extra Sites:
-https://interstellars.games/
-https://69.eightgrade.com/
+https://interstellars.games/ (Out of Service)
+https://69.eightgrade.com/ (Might Be Working, if you get a black screen saying something out of range, just spam reload button until it works)
+incog.dev/# (Might Be Blocked, cant verify.)
+
+Adding More ASAP
 
