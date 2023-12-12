@@ -18,7 +18,7 @@ The Rest is Self-Explanitory.
 Extra Sites:
 - https://interstellars.games/ (Out of Service)
 - https://69.eightgrade.com/ (Might Be Working, if you get a black screen saying something out of range, just spam reload button until it works)
-- incog.dev/# (Might Be Blocked, cant verify.)
+- https://incog.dev/# (Might Be Blocked, cant verify.)
 
 Adding More ASAP
 
