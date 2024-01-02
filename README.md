@@ -10,6 +10,7 @@
 
 ### UPDATES
 <p align='center'>As we return from winter break, we find that discord will no longer work even with proxys, for me anyway. If you all have the same issue, please tell me by making a issue report. I am on this trying to figure out a way to solve this, as it impacts me too, I do not have a PC at this time and these hacks are something I heavily rely on. I will keep you guys posted, in the meanwhile please star this repo.
+
 ### Instructions
 I didn't originate this method, but I'm contributing to its improvement.
 
