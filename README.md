@@ -15,7 +15,7 @@
 ### Instructions
 I didn't originate this method, but I'm contributing to its improvement.
 
-1. Access [this file](/SecurlyKiller) and click the "Copy" button beside "raw".
+1. Access [this file](/SecurlyKiller) and click the "Copy" button beside "raw". ( https://pastebin.com/mbd8xsQM if RAW is blocked)
    
    ![Copy File](https://github.com/HXCHS/HackersX-Unblocked-Websites/assets/113638066/18e289c4-da5f-47b3-a8ac-195996f7d3d1)
 
