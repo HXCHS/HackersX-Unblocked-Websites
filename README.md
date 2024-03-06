@@ -2,11 +2,11 @@ I have identified vulnerabilitiws. The following information is for EDUCATIONAL 
 
 Securly will always patch exploits, but we will be one step ahead.
 
-Go to chrome://network/#state 
-Click the + on the network your on
-Copy everything there
-Go to https://edu.triutama.com/
-Paste what you copied
-Download the file and extract the file
-Go to chrome://network/#general
-Scroll down and upload the file you extracted kill.onc
+- Go to chrome://network/#state 
+- Click the + on the network your on
+- Copy everything there
+- Go to https://edu.triutama.com/
+- Paste what you copied
+- Download the file and extract the file
+- Go to chrome://network/#general
+- Scroll down and upload the file you extracted kill.onc
