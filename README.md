@@ -1,3 +1,5 @@
+# NO LONGER WORKS, I DONT THINK SO ANYWAY 
+
 I have identified vulnerabilitiws. The following information is for EDUCATIONAL purposes ONLY. Fix your stuff guys. This is an example of the things securly doesnt think of. this is in no way an exploit, i need to update my entire profile and stuff. 
 
 Securly will always patch exploits, but we will be one step ahead.
